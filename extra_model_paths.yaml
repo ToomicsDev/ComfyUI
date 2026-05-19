@@ -77,3 +77,8 @@ comfyui:
 #    checkpoints: models/checkpoints
 #    gligen: models/gligen
 #    custom_nodes: path/custom_nodes
+
+comfyui_nvme:
+    base_path: /opt/dlami/nvme/ComfyUI-models/
+    checkpoints: checkpoints/
+    loras: loras/
