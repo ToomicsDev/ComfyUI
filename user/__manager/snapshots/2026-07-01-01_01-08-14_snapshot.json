@@ -1,13 +1,8 @@
-
 {
     "comfyui": "7a01b8a52ab0b80057d90cfea1fa6000759ca401",
     "git_custom_nodes": {
         "https://github.com/ltdrdata/ComfyUI-Manager.git": {
             "hash": "c94236a6145742610805e9e357b555c270f7cccf",
-            "disabled": false
-        },
-        "https://github.com/PozzettiAndrea/ComfyUI-Multiband": {
-            "hash": "121606fa1f36c11467f205f348aabc1395bd3de4",
             "disabled": false
         },
         "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite": {
@@ -24,18 +19,6 @@
         },
         "https://github.com/ruiqutech/ComfyUI-RuiquNodes": {
             "hash": "2965bca2e9912e8f79c7cce84574ecf625721df4",
-            "disabled": false
-        },
-        "https://github.com/PozzettiAndrea/ComfyUI-Env-Manager": {
-            "hash": "6b441f3ad45219fccddde6bcd0f11d2990ef8182",
-            "disabled": false
-        },
-        "https://github.com/wildminder/ComfyUI-VibeVoice": {
-            "hash": "99a98031d79e07f279a7aa6d01ce89042e8bba26",
-            "disabled": false
-        },
-        "https://github.com/PozzettiAndrea/ComfyUI-SAM3": {
-            "hash": "d5fc3167e0082dd86939799e406edb6b9db30a1c",
             "disabled": false
         },
         "https://github.com/kijai/ComfyUI-GIMM-VFI": {
