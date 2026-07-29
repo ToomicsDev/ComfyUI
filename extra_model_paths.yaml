@@ -24,7 +24,7 @@
 #     audio_encoders: models/audio_encoders/
 #     model_patches: models/model_patches/
 comfyui:
-    base_path: /comfy-env/ComfyUI-models/
+    base_path: /opt/dlami/nvme/ComfyUI-models/
     is_default: true
     checkpoints: checkpoints/
     clip: clip/
@@ -46,6 +46,10 @@ comfyui:
     vae_approx: vae_approx/
     audio_encoders: audio_encoders/
     model_patches: model_patches/
+    ultralytics: ultralytics/
+    ultralytics_bbox: ultralytics/bbox/
+    ultralytics_segm: ultralytics/segm/
+    sams: sams/
 
 
 
@@ -77,8 +81,3 @@ comfyui:
 #    checkpoints: models/checkpoints
 #    gligen: models/gligen
 #    custom_nodes: path/custom_nodes
-
-comfyui_nvme:
-    base_path: /opt/dlami/nvme/ComfyUI-models/
-    checkpoints: checkpoints/
-    loras: loras/
