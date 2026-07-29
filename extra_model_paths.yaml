@@ -46,6 +46,10 @@ comfyui:
     vae_approx: vae_approx/
     audio_encoders: audio_encoders/
     model_patches: model_patches/
+    ultralytics: ultralytics/
+    ultralytics_bbox: ultralytics/bbox/
+    ultralytics_segm: ultralytics/segm/
+    sams: sams/
 
 
 
